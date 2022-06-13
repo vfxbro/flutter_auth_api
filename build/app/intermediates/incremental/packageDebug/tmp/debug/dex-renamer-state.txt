@@ -1,0 +1,4 @@
+#Mon Jun 13 14:42:56 MSK 2022
+base.0=/Users/vfxbro/Desktop/Crypto_Flutter/crypto_bro/flutter_spi/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
